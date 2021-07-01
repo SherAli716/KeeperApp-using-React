@@ -1,4 +1,10 @@
- header{
+body{
+    background: #eee;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    /* padding: 0 32px; */
+}
+
+header{
     background-color: rgb(196, 236, 255);
     /* margin: auto -16px; */
     height: 40px;
